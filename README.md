@@ -2,7 +2,7 @@
 # 🏥 Hospital Management System
 
 
-A Hospital Management System (HMS) built using Django and Django REST Framework (DRF) to efficiently manage hospital operations such as patient records, doctor scheduling, appointments, and billing with taxation. This system provides a robust solution to manage all core operations of a hospital, with CRUD functionalities and tax management for billing.
+A Hospital Management System (HMS) built using PHP Laravel and  REST Framework  to efficiently manage hospital operations such as patient records, doctor scheduling, appointments, and billing with taxation. This system provides a robust solution to manage all core operations of a hospital, with CRUD functionalities and tax management for billing.
 
 
 
@@ -34,7 +34,7 @@ JSON-based request/response system for easy integration with other platforms.
 
 ## 🔧 Tech Stack
 
-**Backend:** Django, Python, Django REST Framework
+**Backend:** Laravel,PHP
 
 **Database:** PostgreSQL/ MySQL
 
